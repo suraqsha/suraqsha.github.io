@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023 - India
+title: The Digital Personal Data Protection Act, 2023 - India
 ---
 
 The Digital Personal Data Protection Act of 2023 is a game-changer for businesses operating in India. This law emphasizes the importance of handling personal data with responsibility, recognizing individuals' rights to privacy while allowing for lawful data processing. For companies, this means a heightened need for vigilance. Whether you're launching a new product or managing existing services, ensuring that your data practices comply with this Act is crucial.
