@@ -9,4 +9,4 @@ The Act introduces strict rules for data collection, consent, and security, alon
 
 This law isn’t just about penalties; it’s about building trust in the digital age. Companies that proactively align with these regulations can position themselves as leaders in privacy and data security. So, if you're not already auditing your data practices, now’s the time to act. Protect your business and your customers by ensuring full compliance with the Digital Personal Data Protection Act, 2023!
 
-And with Suraqsha’s automation and expertise, businesses can seamlessly achieve this goal and stay ahead of the curve.
+And with ***Suraqsha***’s automation and expertise, businesses can seamlessly achieve this goal and stay ahead of the curve.
